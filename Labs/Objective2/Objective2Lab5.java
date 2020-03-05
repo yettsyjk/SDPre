@@ -7,7 +7,7 @@ public class Objective2Lab5 {
     hypotenuse = Math.sqrt((a+a)+(b*b));
 
     System.out.println(hypotenuse);
-    System.out.println( "The hypotenuse of a triangle with side "+ a + "and side " + b + " is "+ hypotenuse );
+    System.out.println( "The hypotenuse of a triangle with side "+ a + " and side " + b + " is "+ hypotenuse );
     System.out.println();
   }
 }
