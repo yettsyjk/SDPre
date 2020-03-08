@@ -1,6 +1,6 @@
 # SDPre
-##SDPre_JavaPreWork
-1. Learn Java the Hard Way Pre-work for cohort SD26 :grin:
+## SDPre_JavaPreWork
+### Learn Java the Hard Way Pre-work for cohort SD26 :grin:
 - Software Developer Yettsy Jo Knapp from Denver, Colorado on March 2020.
 - Let's connect, here is my [LinkedIn page](https://www.linkedin.com/in/yettsy-jo-knapp).
 ## Check Java version
